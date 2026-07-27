@@ -33,4 +33,3 @@ Upon completion, the pipeline creates:
 - `plots/class_distribution.png`: Bar chart of real vs. fake article counts.
 - `plots/confusion_matrix_<model>.png`: High-resolution confusion matrices for **KNN**, **Logistic Regression**, **Random Forest**, and **Neural Network**.
 - `plots/model_comparison_metrics.png`: Side-by-side comparison bar chart of Accuracy, Precision, Recall, and F1-score across all 4 models.
-- `model_evaluation_summary.csv`: Summary table ready to be copied into your IEEE final report.
